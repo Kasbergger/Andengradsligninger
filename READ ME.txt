@@ -1,6 +1,0 @@
-Formål:
-At lave et program der kan løse en andengradsligning
-
-Lært:
-Funktions opsætning af egne matematik løsninger,
-altså lave mine egne funktioner til at løse noget matematik
